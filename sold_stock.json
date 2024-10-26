@@ -1,0 +1,86 @@
+[
+    {
+        "Category": "Washing Machine",
+        "Model": "WM1",
+        "ID": "WM10000",
+        "Date": "2024-08-01"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WM2",
+        "ID": "WM10001",
+        "Date": "2024-08-02"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC10000",
+        "Date": "2024-08-03"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR10000",
+        "Date": "2024-08-04"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WM2",
+        "ID": "WM10001",
+        "Date": "2024-08-02"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC10000",
+        "Date": "2024-08-03"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR10000",
+        "Date": "2024-08-04"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WM2",
+        "ID": "WM10001",
+        "Date": "2024-08-02"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC10000",
+        "Date": "2024-08-03"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR10000",
+        "Date": "2024-08-04"
+    },
+    {
+        "Category": "Washing Machine",
+        "Model": "WM2",
+        "ID": "WM10001",
+        "Date": "2024-08-02"
+    },
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC10000",
+        "Date": "2024-08-03"
+    },
+    {
+        "Category": "Fridge",
+        "Model": "FR1",
+        "ID": "FR10000",
+        "Date": "2024-08-04"
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV10000",
+        "Date": "2024-08-05"
+    }
+]

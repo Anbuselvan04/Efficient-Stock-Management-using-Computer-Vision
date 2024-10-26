@@ -1,0 +1,107 @@
+[
+    {
+        "Category": "AC",
+        "Model": "AC1",
+        "ID": "AC001",
+        "Date": "2024-01-01",
+        "Quantity": 50
+    },
+    {
+        "Category": "AC",
+        "Model": "AC2",
+        "ID": "AC002",
+        "Date": "2024-01-01",
+        "Quantity": 50
+    },
+    {
+        "Category": "AC",
+        "Model": "AC3",
+        "ID": "AC003",
+        "Date": "2024-01-01",
+        "Quantity": 50
+    },
+    {
+        "Category": "FR",
+        "Model": "FR1",
+        "ID": "FR001",
+        "Date": "2024-01-01",
+        "Quantity": 50
+    },
+    {
+        "Category": "FR",
+        "Model": "FR2",
+        "ID": "FR002",
+        "Date": "2024-01-01",
+        "Quantity": 50
+    },
+    {
+        "Category": "FR",
+        "Model": "FR3",
+        "ID": "FR003",
+        "Date": "2024-01-01",
+        "Quantity": 50
+    },
+    {
+        "Category": "HO",
+        "Model": "HO1",
+        "ID": "HO001",
+        "Date": "2024-01-01",
+        "Quantity": 50
+    },
+    {
+        "Category": "HO",
+        "Model": "HO2",
+        "ID": "HO002",
+        "Date": "2024-01-01",
+        "Quantity": 50
+    },
+    {
+        "Category": "HO",
+        "Model": "HO3",
+        "ID": "HO003",
+        "Date": "2024-01-01",
+        "Quantity": 50
+    },
+    {
+        "Category": "TV",
+        "Model": "TV1",
+        "ID": "TV001",
+        "Date": "2024-01-01",
+        "Quantity": 50
+    },
+    {
+        "Category": "TV",
+        "Model": "TV2",
+        "ID": "TV002",
+        "Date": "2024-01-01",
+        "Quantity": 50
+    },
+    {
+        "Category": "TV",
+        "Model": "TV3",
+        "ID": "TV003",
+        "Date": "2024-01-01",
+        "Quantity": 50
+    },
+    {
+        "Category": "WA",
+        "Model": "WA1",
+        "ID": "WA001",
+        "Date": "2024-01-01",
+        "Quantity": 50
+    },
+    {
+        "Category": "WA",
+        "Model": "WA2",
+        "ID": "WA002",
+        "Date": "2024-01-01",
+        "Quantity": 50
+    },
+    {
+        "Category": "WA",
+        "Model": "WA3",
+        "ID": "WA003",
+        "Date": "2024-01-01",
+        "Quantity": 50
+    }
+]
